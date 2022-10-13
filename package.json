@@ -1,0 +1,19 @@
+{
+  "name": "mern-D",
+  "version": "1.0.0",
+  "description": "mern stack with deployd as backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.4.0",
+    "deployd": "1.0.0",
+    "dpd-clientlib": "^1.0.0",
+    "dpd-dashboard": "^1.1.3",
+    "express": "^4.18.1"
+  }
+}
